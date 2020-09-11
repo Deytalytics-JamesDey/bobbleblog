@@ -5,8 +5,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/bobbleblog/</loc>
-<lastmod>2020-09-11T09:34:47-00:00</lastmod>
+<lastmod>2020-09-11T10:10:25-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://deytalytics.github.io/bobbleblog/sleepless nights.html</loc>
+<lastmod>2020-09-11T10:00:00-02:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -33,14 +40,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/bobbleblog/category/puppy.html</loc>
-<lastmod>2020-09-06T19:30:00-00:01</lastmod>
+<lastmod>2020-09-11T10:02:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://deytalytics.github.io/bobbleblog/tag/bolognese.html</loc>
-<lastmod>2020-09-06T19:30:00-00:01</lastmod>
+<lastmod>2020-09-11T10:02:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://deytalytics.github.io/bobbleblog/tag/puppies.html</loc>
+<lastmod>2020-09-11T10:02:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://deytalytics.github.io/bobbleblog/tag/keepingusawake.html</loc>
+<lastmod>2020-09-11T10:02:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -81,13 +102,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/bobbleblog/tag/puppies.html</loc>
-<lastmod>2020-09-06T19:30:00-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://deytalytics.github.io/bobbleblog/tag/searching.html</loc>
 <lastmod>2020-09-04T19:30:00-00:01</lastmod>
 <changefreq>daily</changefreq>
@@ -96,7 +110,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://deytalytics.github.io/bobbleblog/author/james-dey.html</loc>
-<lastmod>2020-09-06T19:30:00-00:01</lastmod>
+<lastmod>2020-09-11T10:02:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
