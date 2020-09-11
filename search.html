@@ -49,13 +49,28 @@
   <div id="main">
     <div id="content">
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script>
+
+$.getJSON( "https://customsearch.googleapis.com/customsearch/v1?cx=861a124b3f1aa3991&exactTerms=%22bobble%22&key=AIzaSyCZ9AKJnNB6Xjb3h5RqPeVkgzi2kjj7OGU", function( data ) {
+  var items = [];
+  for (var i = 0; i < data.searchInformation.totalResults; i++) {
+    var pushitem="<li id='" + i + "'>" + "<a href='"+ data.items[i].formattedUrl +"'>"+data.items[i].title+"</a><br>"+data.items[i].snippet+ "</li>";
+    items.push(pushitem);
+  };
+
+  document.getElementById("gcse-searchresults-only").innerHTML=items;
+  });
+</script>
+
 <div>
 	<article role="article">
         <header>
     		<h1 class="entry-title">Search Results</h1>
     	</header>
-        <script async src="https://cse.google.com/cse.js?cx=861a124b3f1aa3991"></script>
-        <div class="gcse-searchresults-only"></div>
+
+        <div id="gcse-searchresults-only"></div>
     </article>
 </div>
 
