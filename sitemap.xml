@@ -4,112 +4,112 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://127.0.0.1:8000/</loc>
-<lastmod>2020-09-15T09:37:14-00:00</lastmod>
+<loc>https://deytalytics.github.io/bobbleblog/</loc>
+<lastmod>2020-09-15T09:39:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://127.0.0.1:8000/sleepless nights.html</loc>
+<loc>https://deytalytics.github.io/bobbleblog/sleepless nights.html</loc>
 <lastmod>2020-09-11T10:00:00-02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://127.0.0.1:8000/dont-mix-me-up.html</loc>
+<loc>https://deytalytics.github.io/bobbleblog/dont-mix-me-up.html</loc>
 <lastmod>2020-09-06T11:18:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://127.0.0.1:8000/hello-bobble.html</loc>
+<loc>https://deytalytics.github.io/bobbleblog/hello-bobble.html</loc>
 <lastmod>2020-09-06T19:30:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://127.0.0.1:8000/getting-bobble.html</loc>
+<loc>https://deytalytics.github.io/bobbleblog/getting-bobble.html</loc>
 <lastmod>2020-09-04T19:30:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://127.0.0.1:8000/category/puppy.html</loc>
+<loc>https://deytalytics.github.io/bobbleblog/category/puppy.html</loc>
 <lastmod>2020-09-11T10:02:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://127.0.0.1:8000/tag/bolognese.html</loc>
+<loc>https://deytalytics.github.io/bobbleblog/tag/bolognese.html</loc>
 <lastmod>2020-09-11T10:02:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://127.0.0.1:8000/tag/puppies.html</loc>
+<loc>https://deytalytics.github.io/bobbleblog/tag/puppies.html</loc>
 <lastmod>2020-09-11T10:02:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://127.0.0.1:8000/tag/keepingusawake.html</loc>
+<loc>https://deytalytics.github.io/bobbleblog/tag/keepingusawake.html</loc>
 <lastmod>2020-09-11T10:02:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://127.0.0.1:8000/tag/maltese.html</loc>
+<loc>https://deytalytics.github.io/bobbleblog/tag/maltese.html</loc>
 <lastmod>2020-09-06T11:18:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://127.0.0.1:8000/tag/havanese.html</loc>
+<loc>https://deytalytics.github.io/bobbleblog/tag/havanese.html</loc>
 <lastmod>2020-09-06T11:18:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://127.0.0.1:8000/tag/brichon-frise.html</loc>
+<loc>https://deytalytics.github.io/bobbleblog/tag/brichon-frise.html</loc>
 <lastmod>2020-09-06T11:18:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://127.0.0.1:8000/tag/coton-de-tulear.html</loc>
+<loc>https://deytalytics.github.io/bobbleblog/tag/coton-de-tulear.html</loc>
 <lastmod>2020-09-06T11:18:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://127.0.0.1:8000/tag/dontmixmeup.html</loc>
+<loc>https://deytalytics.github.io/bobbleblog/tag/dontmixmeup.html</loc>
 <lastmod>2020-09-06T11:18:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://127.0.0.1:8000/tag/searching.html</loc>
+<loc>https://deytalytics.github.io/bobbleblog/tag/searching.html</loc>
 <lastmod>2020-09-04T19:30:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://127.0.0.1:8000/author/james-dey.html</loc>
+<loc>https://deytalytics.github.io/bobbleblog/author/james-dey.html</loc>
 <lastmod>2020-09-11T10:02:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
